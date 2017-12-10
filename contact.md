@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+tagline: Cp : 0853-6336-8452 , Gmail : afifmuhammad716@gmail.com , twitter : @afhief08 , ig : muhammad_afhief
 ---
 
