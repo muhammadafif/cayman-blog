@@ -8,5 +8,5 @@
 layout: home
 ---
 
-Nama saya MUHAMMAD AFIF saya kuliah di <a href="https://uin-suska.ac.id">uin suska riau</a>, di uin suska riau pekanbaru saya kuliah jurusan sistem informasi S1, Jurusan Sistem Informasi merupakan jurusan yang berakreditasi B yang merupakan jurusan yang mengarah kepada REKAYASA dan MANAJEMEN 
+Nama saya MUHAMMAD AFIF saya kuliah di <a href="https://uin-suska.ac.id">uin suska riau</a>, di uin suska riau pekanbaru saya kuliah jurusan <a href="https://sif.uin-suska.ac.id">sistem informasi</a> S1, Jurusan Sistem Informasi merupakan jurusan yang berakreditasi B yang merupakan jurusan yang mengarah kepada REKAYASA dan MANAJEMEN 
 
