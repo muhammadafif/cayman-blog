@@ -4,7 +4,7 @@ title: About
 tagline:
 permalink: /about.html
 ---
-Nama : muhammad afif <br>
-nim : 11453101705 <br>
-jurusan : <a href="https://sif.uin-suska.ac.id">sistem informasi</a> <br>
-gmail : afifmuhammad716@gmail.com
+Nama &nbsp&nbsp : muhammad afif <br>
+nim &nbsp&nbsp&nbsp : 11453101705 <br>
+jurusan &nbsp : <a href="https://sif.uin-suska.ac.id">sistem informasi</a> <br>
+gmail &nbsp&nbsp&nbsp&nbsp : afifmuhammad716@gmail.com
