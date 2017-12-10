@@ -4,9 +4,9 @@ title: About
 tagline: NAMA : MUHAMMAD AFIF , JURUSAN : SISTEM INFORMASI
 permalink: /about.html
 ---
-NAMA : MUHAMMAD AFIF <br>
-NIM : 11453101705 <br>
-JURUSAN : SISTEM INFORMASI ( UIN SUSKA RIAU PEKANBARU ) <br>
-GMAIL : afifmuhammad716@gmail.com
+NAMA &nbsp&nbsp&nbsp : MUHAMMAD AFIF <br>
+NIM &nbsp&nbsp&nbsp&nbsp&nbsp : 11453101705 <br>
+JURUSAN &nbsp&nbsp : SISTEM INFORMASI ( UIN SUSKA RIAU PEKANBARU ) <br>
+GMAIL &nbsp&nbsp &nbsp : afifmuhammad716@gmail.com
 
 
