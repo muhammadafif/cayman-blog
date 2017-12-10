@@ -8,10 +8,5 @@
 layout: home
 ---
 
-Nama saya muhammad afif saya 
+Nama saya MUHAMMAD AFIF saya kuliah di uin suska riau, di uin suska riau pekanbaru saya kuliah jurusan sistem informasi S1, Jurusan Sistem Informasi merupakan jurusan yang berakreditasi B yang merupakan jurusan yang mengarah kepada REKAYASA dan MANAJEMEN
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
-
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
