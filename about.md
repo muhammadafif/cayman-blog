@@ -4,4 +4,5 @@ title: About
 tagline:
 permalink: /about.html
 ---
-zcasdcsacdscazcsacsacsacsacsa
+Nama : muhammad afif
+nim : 11453101705
