@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: NAMA : MUHAMMAD AFIF , JURUSAN : SISTEM INFORMASI
+tagline:
 permalink: /about.html
 ---
 
