@@ -7,7 +7,9 @@ url: "https://muhammadafif.github.io" # change this to the base hostname & proto
 
 cayman-blog:
   date_format: "%b %-d, %Y"
-
+google_analytics:
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 theme: # leave it empty
 
 # social
